@@ -11,7 +11,7 @@ System.out.println();
 
 
 }
-//output
+//output of this code
 //*****
 //*****
 //*****
