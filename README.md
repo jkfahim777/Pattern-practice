@@ -1,5 +1,5 @@
 # Pattern-practice
-There are 9 practice pattern problems 
+This is a pattern problem (1/9)
 <br>
 ```java
 for(i=0;i<4;i++){
